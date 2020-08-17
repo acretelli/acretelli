@@ -1,8 +1,5 @@
 ### Oi, eu sou a Anna 👋
 
-<!--
-**acretelli/acretelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sou desenvolvedora frontend, estudando para ser fullstack 😎
 
 🏢 Atualmente, trabalho como autônoma no desenvolvimento de websites para pequenas empresas
